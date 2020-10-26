@@ -1,4 +1,4 @@
-### Hey bro 👋
+### Hey 👋
 
 - 📱 Mobile Dev
 - 🚀 Growth Hacker
