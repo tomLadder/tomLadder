@@ -4,6 +4,7 @@ I'm Thomas, a developer who enjoys building tools and exploring new technologies
 
 ## Projects 🛠️
 - [willhaben-cli](https://github.com/tomLadder/willhaben-cli) | 🛍️ Unofficial CLI for managing willhaben.at marketplace listings                 
+- [spusu-cli](https://github.com/tomLadder/spusu-cli) | 📱 Unofficial CLI for spusu.at Austrian mobile provider
 - [react-native-echarts-wrapper](https://github.com/tomLadder/react-native-echarts-wrapper) | 📈 Powerful React-Native ECharts wrapper          
 - [flutter_widgetkit](https://github.com/fasky-software/flutter_widgetkit) | 🍏 Flutter library for iOS Widget Extensions
 - [react-native-widgetkit](https://github.com/fasky-software/react-native-widgetkit) | 🍏 React-Native library for iOS WidgetKit
