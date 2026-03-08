@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Thomas, a developer who enjoys building tools and exploring new technologies.
+I'm Thomas, a developer who enjoys building tools and exploring new technologies. Heavily experimenting with agentic coding to improve development efficiency and automate my daily tasks with the help of agents.
 
 ## Projects 🛠️
 - [willhaben-cli](https://github.com/tomLadder/willhaben-cli) | 🛍️ Unofficial CLI for managing willhaben.at marketplace listings                 
