@@ -3,6 +3,7 @@
 I'm Thomas, a developer who enjoys building tools and exploring new technologies. Heavily experimenting with agentic coding to improve development efficiency and automate my daily tasks with the help of agents.
 
 ## Projects 🛠️
+- [trello-cli](https://github.com/tomLadder/trello-cli) | 📋 Unofficial CLI for managing Trello boards
 - [willhaben-cli](https://github.com/tomLadder/willhaben-cli) | 🛍️ Unofficial CLI for managing willhaben.at marketplace listings                 
 - [spusu-cli](https://github.com/tomLadder/spusu-cli) | 📱 Unofficial CLI for spusu.at Austrian mobile provider
 - [magenta-cli](https://github.com/tomLadder/magenta-cli) | 📡 Unofficial CLI for Magenta Telekom Austria
