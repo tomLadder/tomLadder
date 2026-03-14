@@ -3,6 +3,7 @@
 I'm Thomas, a developer who enjoys building tools and exploring new technologies. Heavily experimenting with agentic coding to improve development efficiency and automate my daily tasks with the help of agents.
 
 ## Projects 🛠️
+- [thermoprint](https://github.com/tomLadder/thermoprint) | 🖨️ TypeScript toolkit for Bluetooth thermal printers
 - [trello-cli](https://github.com/tomLadder/trello-cli) | 📋 CLI for managing Trello boards
 - [willhaben-cli](https://github.com/tomLadder/willhaben-cli) | 🛍️ CLI for managing willhaben.at marketplace listings                 
 - [spusu-cli](https://github.com/tomLadder/spusu-cli) | 📱 CLI for spusu.at Austrian mobile provider
