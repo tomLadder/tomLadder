@@ -2,6 +2,8 @@
 
 I'm Thomas, a developer who enjoys building tools and exploring new technologies. Heavily experimenting with agentic coding to improve development efficiency and automate my daily tasks with the help of agents.
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/tomLadder)
+
 ## Projects 🛠️
 - [thermoprint](https://github.com/tomLadder/thermoprint) | 🖨️ TypeScript toolkit for Bluetooth thermal printers
 - [trello-cli](https://github.com/tomLadder/trello-cli) | 📋 CLI for managing Trello boards
